@@ -1,4 +1,5 @@
----
+cd pragati-education-mcq-app/frontend
+
 title: npm-install
 section: 1
 description: Install a package
